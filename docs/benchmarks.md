@@ -1,0 +1,13 @@
+Binary
+
+PAM4
+
+PAM8
+
+QUAL16
+
+QUAL32
+
+QAM16
+
+QAM64
