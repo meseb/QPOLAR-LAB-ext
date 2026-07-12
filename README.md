@@ -36,3 +36,23 @@ QPOLAR LAB
 ## License
 
 ## Citation
+
+Analog Signal
+      │
+      ▼
+Normalization
+      │
+      ▼
+Quantization
+      │
+      ▼
+QUAL
+      │
+      ▼
+QFRAME
+      │
+      ▼
+Decoder
+      │
+      ▼
+Application
